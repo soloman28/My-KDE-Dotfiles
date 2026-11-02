@@ -1,0 +1,27 @@
+/* XPM */
+/* This file is a part of the NsCDE - Not so Common Desktop Environment */
+static char *_6x16_media_playback_stop[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 4 1 ",
+"@ s foreground m white c #000000000000",
+". s bottomShadowColor m black c #6b6160fb5b61",
+"X s background m black c #c600b2d2a87e",
+"o s topShadowColor m white c #e720dee6da78",
+/* pixels */
+"oooooooooooooooo",
+"oXXXXXXXXXXXXXX.",
+"oXXXXXXXXXXXXXX.",
+"oXXXXXXXXXXXXXX.",
+"oXXX@@@@@@@@XXX.",
+"oXXX@@@@@@@@XXX.",
+"oXXX@@@@@@@@XXX.",
+"oXXX@@@@@@@@XXX.",
+"oXXX@@@@@@@@XXX.",
+"oXXX@@@@@@@@XXX.",
+"oXXX@@@@@@@@XXX.",
+"oXXX@@@@@@@@XXX.",
+"oXXXXXXXXXXXXXX.",
+"oXXXXXXXXXXXXXX.",
+"oXXXXXXXXXXXXXX.",
+"o..............."
+};

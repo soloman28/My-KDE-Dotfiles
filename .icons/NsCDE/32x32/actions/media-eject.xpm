@@ -1,0 +1,43 @@
+/* XPM */
+/* This file is a part of the NsCDE - Not so Common Desktop Environment */
+static char *_2x32_media_eject[] = {
+/* columns rows colors chars-per-pixel */
+"32 32 4 1 ",
+"@ s foreground m white c #000000000000",
+". s bottomShadowColor m black c #6b6160fb5b61",
+"X s background m black c #c600b2d2a87e",
+"o s topShadowColor m white c #e720dee6da78",
+/* pixels */
+"oooooooooooooooooooooooooooooooo",
+"ooooooooooooooooooooooooooooooo.",
+"ooXXXXXXXXXXXXXXXXXXXXXXXXXXXX..",
+"ooXXXXXXXXXXXXXXXXXXXXXXXXXXXX..",
+"ooXXXXXXXXXXXXXXXXXXXXXXXXXXXX..",
+"ooXXXXXXXXXXXXXXXXXXXXXXXXXXXX..",
+"ooXXXXXXXXXXXXXXXXXXXXXXXXXXXX..",
+"ooXXXXXXXXXXXXXXXXXXXXXXXXXXXX..",
+"ooXXXXXXXXXXXXXXXXXXXXXXXXXXXX..",
+"ooXXXXXXXXXXXXXXXXXXXXXXXXXXXX..",
+"ooXXXXXXXXXXXXXXXXXXXXXXXXXXXX..",
+"ooXXXXXXXXXXXXX@XXXXXXXXXXXXXX..",
+"ooXXXXXXXXXXXX@@@XXXXXXXXXXXXX..",
+"ooXXXXXXXXXXX@@@@@XXXXXXXXXXXX..",
+"ooXXXXXXXXXX@@@@@@@XXXXXXXXXXX..",
+"ooXXXXXXXXX@@@@@@@@@XXXXXXXXXX..",
+"ooXXXXXXXX@@@@@@@@@@@XXXXXXXXX..",
+"ooXXXXXXXXXXXXXXXXXXXXXXXXXXXX..",
+"ooXXXXXXXXXXXXXXXXXXXXXXXXXXXX..",
+"ooXXXXXXXX@@@@@@@@@@@XXXXXXXXX..",
+"ooXXXXXXXX@@@@@@@@@@@XXXXXXXXX..",
+"ooXXXXXXXXXXXXXXXXXXXXXXXXXXXX..",
+"ooXXXXXXXXXXXXXXXXXXXXXXXXXXXX..",
+"ooXXXXXXXXXXXXXXXXXXXXXXXXXXXX..",
+"ooXXXXXXXXXXXXXXXXXXXXXXXXXXXX..",
+"ooXXXXXXXXXXXXXXXXXXXXXXXXXXXX..",
+"ooXXXXXXXXXXXXXXXXXXXXXXXXXXXX..",
+"ooXXXXXXXXXXXXXXXXXXXXXXXXXXXX..",
+"ooXXXXXXXXXXXXXXXXXXXXXXXXXXXX..",
+"ooXXXXXXXXXXXXXXXXXXXXXXXXXXXX..",
+"oo..............................",
+"o..............................."
+};
